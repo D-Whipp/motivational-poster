@@ -1,6 +1,6 @@
 # Motivational Poster
 
-## Frontend Project
+## Frontend Challenge
 
 ![app screenshot](./assets/images/Motivational-Poster.png)
 
